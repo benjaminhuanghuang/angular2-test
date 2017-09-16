@@ -5,7 +5,7 @@
 
 ## Term
     Unit tests: Test certain functions, area or units of code
-    e2e test: Run the real applicaiton in th broser and simulated user behavior
+    e2e test: Run the real application in th browser and simulated user behavior
 
 
 ## Tools
@@ -14,7 +14,7 @@
 ## 4 key players:
     - Components
         Encapsulates the tempalte, data, and behavior of a view.
-        Decoupled with DOM elements. Makeing components testable.
+        Decoupled with DOM elements. Making components testable.
     
     - Services
         Data access, business logic...
